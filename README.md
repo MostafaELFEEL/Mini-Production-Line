@@ -11,11 +11,15 @@ The integration of the project has been completed as a CAD model. The five stati
 
 Following the CAD design, we created a simulation of the integrated project using MATLAB and the contact library, which served as the core component of the simulation.
 
+![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/a36c4c13-a2a4-4eda-b47c-4cf04246204b)
+
 You can check simulation video from this link:
 https://youtu.be/nppwuOk6dds
 
 
 Finally, we implemented the project in real life, incorporating all the necessary tools such as electronics, drivers, valves, and more.
+
+![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/f990e7c1-639c-4c18-b5de-0491eaac5643)
 
 You can check real life implementation of the project from this link:
 https://youtu.be/GqiDOUGQDf8
