@@ -7,10 +7,23 @@ In this project we are focusing on doing a fully automated production line for p
 
 The integration of the project has been completed as a CAD model. The five stations are arranged in the desired sequence, starting with the Feeding station, which initiates the process by supplying the parts to the Assembly station. The Assembly station then works to assemble the product into a single unit. Next, the product moves to the Sorting station, where its placement is determined based on its weight. The product is stored at the Sorting station for 30 seconds. Afterwards, the product is transferred to the final station, which is the Disassembly station. Here, the product is primarily disassembled into its main parts and ultimately delivered back to the Feeding mechanism.
 
+![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/154a56ef-1110-46ba-a4e2-6d775eb1fceb)
 
-![FULL_CAD2](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/33c49124-3601-45e1-a8c3-d5d1296bd087)
+Following the CAD design, we created a simulation of the integrated project using MATLAB and the contact library, which served as the core component of the simulation.
 
-![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/ef14b003-cae4-4166-b068-d20796c554c1)
+You can check simulation video from this link:
+https://youtu.be/nppwuOk6dds
+
+https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/a427aac0-e1bf-4af0-8b6e-ea26aae41375
+
+Finally, we implemented the project in real life, incorporating all the necessary tools such as electronics, drivers, valves, and more.
+
+You can check real life implementation of the project from this link:
+https://youtu.be/GqiDOUGQDf8
+
+
+
+
 
 
 
