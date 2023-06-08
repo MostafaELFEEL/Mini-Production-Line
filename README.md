@@ -21,7 +21,7 @@ Finally, we implemented the project in real life, incorporating all the necessar
 
 ![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/f990e7c1-639c-4c18-b5de-0491eaac5643)
 
-You can check real life implementation of the project from this link:
+You can check real life implementation video from this link:
 https://youtu.be/GqiDOUGQDf8
 
 
