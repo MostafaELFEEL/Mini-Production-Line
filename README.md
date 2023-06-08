@@ -10,4 +10,7 @@ The integration of the project has been completed as a CAD model. The five stati
 
 ![FULL_CAD2](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/33c49124-3601-45e1-a8c3-d5d1296bd087)
 
+![image](https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/ef14b003-cae4-4166-b068-d20796c554c1)
+
+
 
