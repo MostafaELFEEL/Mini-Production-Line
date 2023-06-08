@@ -14,7 +14,6 @@ Following the CAD design, we created a simulation of the integrated project usin
 You can check simulation video from this link:
 https://youtu.be/nppwuOk6dds
 
-https://github.com/MostafaELFEEL/Mini-Production-Line/assets/106331831/a427aac0-e1bf-4af0-8b6e-ea26aae41375
 
 Finally, we implemented the project in real life, incorporating all the necessary tools such as electronics, drivers, valves, and more.
 
